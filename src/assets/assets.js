@@ -84,7 +84,7 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
+        menu_name: "Ensalada",
         menu_image: menu_1
     },
     {
@@ -92,7 +92,7 @@ export const menu_list = [
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Postres",
         menu_image: menu_3
     },
     {
@@ -100,11 +100,11 @@ export const menu_list = [
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Pastel",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Puro vegetal",
         menu_image: menu_6
     },
     {
@@ -112,239 +112,239 @@ export const menu_list = [
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Fideos",
         menu_image: menu_8
     }]
 
 export const food_list = [
     {
         _id: "1",
-        name: "Greek salad",
+        name: "Ensalada griega",
         image: food_1,
-        price: 12,
+        price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Ensalada"
     },
     {
         _id: "2",
-        name: "Veg salad",
+        name: "Ensalada verduras",
         image: food_2,
-        price: 18,
+        price: 1800,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Ensalada"
     }, {
         _id: "3",
-        name: "Clover Salad",
+        name: "Ensalada De Trébol",
         image: food_3,
-        price: 16,
+        price: 1600,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Ensalada"
     }, {
         _id: "4",
-        name: "Chicken Salad",
+        name: "Ensalada De Pollo",
         image: food_4,
-        price: 24,
+        price: 2400,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        category: "Ensalada"
     }, {
         _id: "5",
         name: "Lasagna Rolls",
         image: food_5,
-        price: 14,
+        price: 1400,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls"
     }, {
         _id: "6",
         name: "Peri Peri Rolls",
         image: food_6,
-        price: 12,
+        price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls"
     }, {
         _id: "7",
-        name: "Chicken Rolls",
+        name: "Rollitos De Pollo",
         image: food_7,
-        price: 20,
+        price: 2000,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls"
     }, {
         _id: "8",
-        name: "Veg Rolls",
+        name: "Rollitos de verduras",
         image: food_8,
-        price: 15,
+        price: 1500,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Rolls"
     }, {
         _id: "9",
-        name: "Ripple Ice Cream",
+        name: "Helado ondulado",
         image: food_9,
-        price: 14,
+        price: 1400,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        category: "Postres"
     }, {
         _id: "10",
-        name: "Fruit Ice Cream",
+        name: "Helado de frutas",
         image: food_10,
-        price: 22,
+        price: 2200,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        category: "Postres"
     }, {
         _id: "11",
-        name: "Jar Ice Cream",
+        name: "Tarro De Helado con frutillas",
         image: food_11,
-        price: 10,
+        price: 1000,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        category: "Postres"
     }, {
         _id: "12",
-        name: "Vanilla Ice Cream",
+        name: "Helado de vainilla",
         image: food_12,
-        price: 12,
+        price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        category: "Postres"
     },
     {
         _id: "13",
-        name: "Chicken Sandwich",
+        name: "Sándwich De Pollo",
         image: food_13,
-        price: 12,
+        price: 1800,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich"
     },
     {
         _id: "14",
-        name: "Vegan Sandwich",
+        name: "Sándwich Vegano",
         image: food_14,
-        price: 18,
+        price: 1500,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich"
     }, {
         _id: "15",
-        name: "Grilled Sandwich",
+        name: "Sándwich Mix de verduras",
         image: food_15,
-        price: 16,
+        price: 1600,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich"
     }, {
         _id: "16",
-        name: "Bread Sandwich",
+        name: "Sándwich De Pan franses",
         image: food_16,
-        price: 24,
+        price: 2000,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Sandwich"
     }, {
         _id: "17",
-        name: "Cup Cake",
+        name: "Muffin con crema de frutilla",
         image: food_17,
-        price: 14,
+        price: 1400,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Pastel"
     }, {
         _id: "18",
-        name: "Vegan Cake",
+        name: "Pastel Vegano",
         image: food_18,
-        price: 12,
+        price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Pastel"
     }, {
         _id: "19",
-        name: "Butterscotch Cake",
+        name: "Pastel De Caramelo",
         image: food_19,
-        price: 20,
+        price: 2000,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Pastel"
     }, {
         _id: "20",
-        name: "Sliced Cake",
+        name: "Pastel Rebanado",
         image: food_20,
-        price: 15,
+        price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Pastel"
     }, {
         _id: "21",
-        name: "Garlic Mushroom ",
+        name: "Champiñones Al Ajillo ",
         image: food_21,
-        price: 14,
+        price: 1400,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        category: "Puro vegetal"
     }, {
         _id: "22",
-        name: "Fried Cauliflower",
+        name: "Coliflor frita",
         image: food_22,
-        price: 22,
+        price: 2200,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        category: "Puro vegetal"
     }, {
         _id: "23",
-        name: "Mix Veg Pulao",
+        name: "Mezcla de pulao de verduras",
         image: food_23,
-        price: 10,
+        price: 1000,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        category: "Puro vegetal"
     }, {
         _id: "24",
-        name: "Rice Zucchini",
+        name: "Arroz, Zucchini y Huevo",
         image: food_24,
-        price: 12,
+        price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        category: "Puro vegetal"
     },
     {
         _id: "25",
-        name: "Cheese Pasta",
+        name: "Pasta con Queso, Jamon y Huevo",
         image: food_25,
-        price: 12,
+        price: 1200,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta"
     },
     {
         _id: "26",
-        name: "Tomato Pasta",
+        name: "Fideos con fileto",
         image: food_26,
-        price: 18,
+        price: 1800,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta"
     }, {
         _id: "27",
-        name: "Creamy Pasta",
+        name: "Pasta Cremosa",
         image: food_27,
-        price: 16,
+        price: 1600,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta"
     }, {
         _id: "28",
-        name: "Chicken Pasta",
+        name: "Pasta De Pollo",
         image: food_28,
-        price: 24,
+        price: 2400,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta"
     }, {
         _id: "29",
-        name: "Buttter Noodles",
+        name: "Fideos con  Manteca y Verduras",
         image: food_29,
-        price: 14,
+        price: 1400,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        category: "Fideos"
     }, {
         _id: "30",
-        name: "Veg Noodles",
+        name: "Fideos con bolognesa",
         image: food_30,
-        price: 12,
+        price: 2000,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        category: "Fideos"
     }, {
         _id: "31",
-        name: "Somen Noodles",
+        name: "Fideos Somen",
         image: food_31,
-        price: 20,
+        price: 2100,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        category: "Fideos"
     }, {
         _id: "32",
-        name: "Cooked Noodles",
+        name: "Sopa de fideos y verduras",
         image: food_32,
-        price: 15,
+        price: 1500,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        category: "Fideos"
     }
 ]
