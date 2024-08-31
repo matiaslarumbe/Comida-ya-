@@ -8,7 +8,8 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat illum iure unde in ipsa explicabo eaque beatae vitae, repudiandae atque exercitationem enim minima voluptates error animi. Pariatur adipisci quisquam atque.</p>
+                <p><p>En Comida Ya!, nos comprometemos a ofrecerte una experiencia gastronómica excepcional, brindando una selección de platos cuidadosamente elaborados para satisfacer tu paladar. Nuestra misión es hacer que cada comida sea un momento especial, con ingredientes frescos y un servicio de calidad que puedes confiar. ¡Disfruta lo mejor de la cocina local, directamente en tu puerta!</p>
+                </p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
